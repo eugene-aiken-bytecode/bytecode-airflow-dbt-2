@@ -1,0 +1,7 @@
+bytecode-airflow-dbt
+packages/site-packages
+logs/dag_processor_manager
+logs/dbt
+logs/dbt_compile
+logs/dbt_training_bytecode
+logs/schedulerg
